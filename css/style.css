@@ -1,0 +1,7 @@
+h1 {
+  font-family: 'arial',sans-serif;
+}
+
+#about h1 {
+  color: red; /* only the h1 on the ABOUT page will be red since I targetted the ID I added to the BODY */
+}
